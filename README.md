@@ -1,4 +1,4 @@
-# Wesdley Marques | Desenvolvedor Full Stack
+# Wesdley Kennedy | Desenvolvedor Full Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
