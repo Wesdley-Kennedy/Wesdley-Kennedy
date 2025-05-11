@@ -9,8 +9,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wesdleymarques&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=contribs" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesdleymarques&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wesdley-Kennedy&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=contribs" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wesdley-Kennedy&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="150" />
 </div>
 
 ## 👨‍💻 Sobre mim
@@ -66,11 +66,11 @@ const tech = {
 ## 🚀 Projetos Destacados
 
 <div align="center">
-  <a href="https://github.com/wesdleymarques/projeto-incrivel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesdleymarques&repo=projeto-incrivel&theme=github_dark&hide_border=true" alt="Projeto Incrível" />
+  <a href="https://github.com/Wesdley-Kennedy/projeto-incrivel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wesdley-Kennedy&repo=projeto-incrivel&theme=github_dark&hide_border=true" alt="Projeto Incrível" />
   </a>
-  <a href="https://github.com/wesdleymarques/outra-aplicacao-incrivel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesdleymarques&repo=outra-aplicacao-incrivel&theme=github_dark&hide_border=true" alt="Outra Aplicação Incrível" />
+  <a href="https://github.com/Wesdley-Kennedy/outra-aplicacao-incrivel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wesdley-Kennedy&repo=outra-aplicacao-incrivel&theme=github_dark&hide_border=true" alt="Outra Aplicação Incrível" />
   </a>
 </div>
 
@@ -83,16 +83,16 @@ const tech = {
 ## 💬 Vamos Conectar!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/wesdleymarques" target="_blank">
+  <a href="https://www.linkedin.com/in/Wesdley-Kennedy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/wesdleymarques" target="_blank">
+  <a href="https://twitter.com/Wesdley-Kennedy" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:contato@wesdleymarques.dev">
+  <a href="mailto:contato@Wesdley-Kennedy">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://wesdleymarques.dev" target="_blank">
+  <a href="https://Wesdley-Kennedy" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -100,7 +100,7 @@ const tech = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wesdleymarques&color=22C55E&style=flat-square&label=Visualizações+do+Perfil" alt="Visualizações do Perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Wesdley-Kennedy&color=22C55E&style=flat-square&label=Visualizações+do+Perfil" alt="Visualizações do Perfil" />
 </div>
 
 <!-- Terminal Effect -->
