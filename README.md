@@ -1,103 +1,70 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=header"/>
 
-  # Wesdley Kennedy | Desenvolvedor Full Stack
+  <h1>Wesdley Kennedy | Desenvolvedor Full Stack</h1>
 
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/seulink">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:seuemail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://wa.me/seunumerocomddd" target="_blank">
+  <a href="https://wa.me/seunumero">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://github.com/Wesdley-Kennedy" target="_blank">
+  <a href="https://github.com/Wesdley-Kennedy">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <br/><br/>
-
-  <a href="https://link-do-seu-curriculo.com/curriculo.pdf" target="_blank">
-    📄 Baixe meu currículo
+  <a href="https://seudominio.com/curriculo.pdf" target="_blank">
+    📄 Baixar Currículo
   </a>
 </div>
 
----
-
 ## 💫 Sobre Mim
-Desenvolvedor Full Stack apaixonado por tecnologia e inovação. Foco em criar soluções robustas, escaláveis e performáticas.
-
-- 🔭 Atualmente atuando em projetos de automação e desenvolvimento web.
-- 🌱 Aprimorando conhecimentos em Cloud Computing.
-- 💬 Me chama para conversar sobre: JavaScript, TypeScript, React, Next.js, Node.js e arquitetura de sistemas.
-- 📫 Disponível para trabalho remoto, híbrido ou presencial.
+Desenvolvedor Full Stack apaixonado por tecnologia e inovação, focado em criar soluções robustas, escaláveis e performáticas. Atualmente trabalho com automação e desenvolvimento web, e estou sempre buscando aprimorar minhas habilidades.
 
 ---
 
 ## 🚀 Tech Stack
 
-**Frontend:**  
-React | Next.js | TypeScript | JavaScript | Tailwind CSS | HTML | CSS | Sass
-
-**Backend:**  
-Node.js | Express
-
-**Banco de Dados:**  
-MongoDB | MySQL | IndexedDB
-
-**Dev Tools:**  
-Git | GitHub | VS Code | Insomnia | Swagger
-
-**Integrações:**  
-Google Cloud | Google Drive API | Google Contacts API | OAuth2
-
-**Gerenciamento de Estado:**  
-React Hooks | Zustand
-
-**Metodologias:**  
-Scrum | Kanban | Jira | Trello
+**Frontend:** React | Next.js | TypeScript | JavaScript | Tailwind CSS | HTML | CSS | Sass  
+**Backend:** Node.js | Express  
+**Banco de Dados:** MongoDB | MySQL | IndexedDB  
+**Dev Tools:** Git | GitHub | VSCode | Insomnia | Swagger  
+**APIs e Integrações:** Google Cloud | Google Drive | Google Contacts | OAuth2  
+**Gerenciamento de Estado:** React Hooks | Zustand  
+**Metodologias:** Scrum | Kanban | Jira | Trello
 
 ---
 
 ## 🏆 Experiência Profissional
 
-**Desenvolvedor Full Stack — waTools (Waseller & Watidy)**  
-Ago/2024 – Atualmente | Minas Gerais, Brasil  
-- Criação de APIs RESTful de alta performance.  
-- Desenvolvimento de sistema de checkout e automações com webhooks (Asaas).  
-- Interfaces responsivas com Next.js, React e Tailwind CSS.  
-- Otimização de estados utilizando Zustand.
+**Desenvolvedor Full Stack – waTools**  
+*(Ago 2024 – Atual)*  
+- Desenvolvimento de sistemas de alta demanda para Waseller e Watidy.  
+- Criação de APIs RESTful e sistemas de pagamentos robustos.  
+- Integração de webhooks com Asaas e Google APIs.  
+- Otimização de aplicações web utilizando Zustand, React e Next.js.
 
-**Projetos Adicionais — waTools**  
-- Integrações completas com Google Cloud (Drive, Contacts, OAuth2).  
-- Criação de sistemas robustos de backup, autenticação e automação.  
-
-**Recepcionista — Hotel San Diego Ipatinga**  
-2018 – 2022 | Ipatinga, Brasil  
-- Atendimento, organização e auditoria interna.
+**Recepcionista de Hotel – Hotel San Diego Ipatinga**  
+*(2018 – 2022)*  
+- Atendimento ao cliente, resolução de problemas e auditorias internas.
 
 ---
 
-## 📚 Educação
+## 🎓 Educação & Certificações
 
-🎓 Análise e Desenvolvimento de Sistemas — Faculdade Única (2023 – Atual)  
-📜 AWS Certified Developer  
-📜 JavaScript Algorithms and Data Structures — FreeCodeCamp  
-📜 React Complete Guide — Udemy  
-📜 Python for Data Science — Coursera  
+- Análise e Desenvolvimento de Sistemas – Faculdade Única (Cursando)  
+- AWS Certified Developer  
+- JavaScript Algorithms and Data Structures – freeCodeCamp  
+- React Complete Guide – Udemy  
+- Python for Data Science – Coursera  
 
 ---
 
-## 📈 GitHub Stats
+## 🐍 Snake Contributions
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Wesdley-Kennedy&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wesdley-Kennedy&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer"/>
+  <img src="https://github.com/Wesdley-Kennedy/Wesdley-Kennedy/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </div>
