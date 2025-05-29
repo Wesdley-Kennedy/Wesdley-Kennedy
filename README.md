@@ -55,16 +55,9 @@ Desenvolvedor Full Stack apaixonado por tecnologia e inovação, focado em criar
 
 ## 🎓 Educação & Certificações
 
-- Análise e Desenvolvimento de Sistemas – Faculdade Única (Cursando)  
-- AWS Certified Developer  
-- JavaScript Algorithms and Data Structures – freeCodeCamp  
-- React Complete Guide – Udemy  
-- Python for Data Science – Coursera  
+- Análise e Desenvolvimento de Sistemas – Faculdade Única (Cursando)
+- Satander Back-End Developer - (Cursando)
+
 
 ---
 
-## 🐍 Snake Contributions
-
-<div align="center">
-  <img src="https://github.com/Wesdley-Kennedy/Wesdley-Kennedy/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-</div>
