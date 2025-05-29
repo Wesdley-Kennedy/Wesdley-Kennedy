@@ -1,544 +1,179 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Full-Stack Developer</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Olá, eu sou Desenvolvedor Full-Stack
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
-            color: #ffffff;
-            line-height: 1.6;
-            min-height: 100vh;
-            overflow-x: hidden;
-        }
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;Especialista+em+React+%26+Node.js;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo!)
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 2rem;
-        }
+</div>
 
-        .header {
-            text-align: center;
-            margin-bottom: 3rem;
-            position: relative;
-        }
+## 🚀 Sobre Mim
 
-        .header::before {
-            content: '';
-            position: absolute;
-            top: -50px;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 200px;
-            height: 4px;
-            background: linear-gradient(90deg, transparent, #00ff88, transparent);
-            animation: pulse 2s ease-in-out infinite;
-        }
-
-        @keyframes pulse {
-            0%, 100% { opacity: 0.4; }
-            50% { opacity: 1; }
-        }
-
-        .title {
-            font-size: 3.5rem;
-            font-weight: 700;
-            margin-bottom: 1rem;
-            background: linear-gradient(135deg, #ffffff 0%, #00ff88 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            animation: slideInDown 1s ease-out;
-        }
-
-        @keyframes slideInDown {
-            from {
-                opacity: 0;
-                transform: translateY(-30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        .subtitle {
-            font-size: 1.2rem;
-            color: #cccccc;
-            margin-bottom: 2rem;
-            animation: fadeIn 1.5s ease-out;
-        }
-
-        @keyframes fadeIn {
-            from { opacity: 0; }
-            to { opacity: 1; }
-        }
-
-        .tech-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 2rem;
-            margin-bottom: 3rem;
-        }
-
-        .tech-category {
-            background: rgba(255, 255, 255, 0.05);
-            border: 1px solid rgba(0, 255, 136, 0.2);
-            border-radius: 15px;
-            padding: 2rem;
-            transition: all 0.3s ease;
-            animation: slideInUp 1s ease-out;
-            animation-fill-mode: both;
-            backdrop-filter: blur(10px);
-        }
-
-        .tech-category:nth-child(1) { animation-delay: 0.2s; }
-        .tech-category:nth-child(2) { animation-delay: 0.4s; }
-        .tech-category:nth-child(3) { animation-delay: 0.6s; }
-        .tech-category:nth-child(4) { animation-delay: 0.8s; }
-
-        @keyframes slideInUp {
-            from {
-                opacity: 0;
-                transform: translateY(30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        .tech-category:hover {
-            transform: translateY(-5px);
-            border-color: #00ff88;
-            box-shadow: 0 10px 30px rgba(0, 255, 136, 0.2);
-        }
-
-        .category-title {
-            font-size: 1.4rem;
-            font-weight: 600;
-            color: #00ff88;
-            margin-bottom: 1rem;
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-        }
-
-        .category-icon {
-            width: 24px;
-            height: 24px;
-            animation: rotate 4s linear infinite;
-        }
-
-        @keyframes rotate {
-            from { transform: rotate(0deg); }
-            to { transform: rotate(360deg); }
-        }
-
-        .tech-list {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.8rem;
-        }
-
-        .tech-item {
-            background: rgba(0, 255, 136, 0.1);
-            border: 1px solid rgba(0, 255, 136, 0.3);
-            padding: 0.5rem 1rem;
-            border-radius: 25px;
-            font-size: 0.9rem;
-            transition: all 0.3s ease;
-            cursor: pointer;
-            position: relative;
-            overflow: hidden;
-        }
-
-        .tech-item::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: -100%;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(90deg, transparent, rgba(0, 255, 136, 0.2), transparent);
-            transition: left 0.5s ease;
-        }
-
-        .tech-item:hover::before {
-            left: 100%;
-        }
-
-        .tech-item:hover {
-            background: rgba(0, 255, 136, 0.2);
-            transform: scale(1.05);
-            border-color: #00ff88;
-        }
-
-        .experience-section {
-            background: rgba(255, 255, 255, 0.05);
-            border: 1px solid rgba(0, 255, 136, 0.2);
-            border-radius: 15px;
-            padding: 2.5rem;
-            margin-bottom: 2rem;
-            backdrop-filter: blur(10px);
-            animation: fadeInScale 1.2s ease-out;
-        }
-
-        @keyframes fadeInScale {
-            from {
-                opacity: 0;
-                transform: scale(0.95);
-            }
-            to {
-                opacity: 1;
-                transform: scale(1);
-            }
-        }
-
-        .experience-title {
-            font-size: 2rem;
-            color: #00ff88;
-            margin-bottom: 2rem;
-            text-align: center;
-            position: relative;
-        }
-
-        .experience-title::after {
-            content: '';
-            position: absolute;
-            bottom: -10px;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 100px;
-            height: 2px;
-            background: linear-gradient(90deg, transparent, #00ff88, transparent);
-        }
-
-        .job-title {
-            font-size: 1.3rem;
-            font-weight: 600;
-            color: #ffffff;
-            margin-bottom: 0.5rem;
-        }
-
-        .company-info {
-            color: #00ff88;
-            font-size: 1rem;
-            margin-bottom: 1.5rem;
-        }
-
-        .achievements {
-            list-style: none;
-        }
-
-        .achievements li {
-            margin-bottom: 1rem;
-            padding-left: 2rem;
-            position: relative;
-            color: #cccccc;
-            line-height: 1.6;
-        }
-
-        .achievements li::before {
-            content: '▶';
-            position: absolute;
-            left: 0;
-            color: #00ff88;
-            font-size: 0.8rem;
-            animation: blink 2s ease-in-out infinite;
-        }
-
-        @keyframes blink {
-            0%, 50% { opacity: 1; }
-            51%, 100% { opacity: 0.3; }
-        }
-
-        .stats {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 1.5rem;
-            margin-top: 3rem;
-        }
-
-        .stat-item {
-            text-align: center;
-            background: rgba(0, 255, 136, 0.1);
-            border: 1px solid rgba(0, 255, 136, 0.3);
-            border-radius: 15px;
-            padding: 1.5rem;
-            transition: all 0.3s ease;
-        }
-
-        .stat-item:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 20px rgba(0, 255, 136, 0.2);
-        }
-
-        .stat-number {
-            font-size: 2rem;
-            font-weight: 700;
-            color: #00ff88;
-            display: block;
-        }
-
-        .stat-label {
-            color: #cccccc;
-            font-size: 0.9rem;
-        }
-
-        .floating-particles {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            pointer-events: none;
-            z-index: -1;
-        }
-
-        .particle {
-            position: absolute;
-            width: 2px;
-            height: 2px;
-            background: #00ff88;
-            border-radius: 50%;
-            animation: float 6s ease-in-out infinite;
-        }
-
-        @keyframes float {
-            0%, 100% {
-                opacity: 0;
-                transform: translateY(100vh) translateX(0);
-            }
-            10% {
-                opacity: 1;
-            }
-            90% {
-                opacity: 1;
-            }
-            100% {
-                transform: translateY(-10px) translateX(10px);
-            }
-        }
-
-        @media (max-width: 768px) {
-            .title {
-                font-size: 2.5rem;
-            }
-            
-            .tech-grid {
-                grid-template-columns: 1fr;
-            }
-            
-            .container {
-                padding: 1rem;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="floating-particles" id="particles"></div>
+```typescript
+const desenvolvedor = {
+    nome: "Desenvolvedor Full-Stack",
+    empresa: "waTools",
+    projetos: ["Waseller", "Watidy"],
+    localização: "Minas Gerais, Brasil",
+    formação: "Análise e Desenvolvimento de Sistemas",
     
-    <div class="container">
-        <header class="header">
-            <h1 class="title">Full-Stack Developer</h1>
-            <p class="subtitle">Criando soluções digitais inovadoras com tecnologias modernas</p>
-        </header>
+    focoAtual: [
+        "Desenvolvimento de APIs de alta performance",
+        "Otimização de aplicações React",
+        "Integração com Google Cloud Platform",
+        "Arquitetura de software escalável"
+    ],
+    
+    filosofia: "Código limpo, performance otimizada e experiência do usuário excepcional"
+};
+```
 
-        <div class="tech-grid">
-            <div class="tech-category">
-                <h3 class="category-title">
-                    <svg class="category-icon" viewBox="0 0 24 24" fill="#00ff88">
-                        <path d="M12 2L2 7v10c0 5.55 3.84 9.739 9 11 5.16-1.261 9-5.45 9-11V7l-10-5z"/>
-                    </svg>
-                    Front-End
-                </h3>
-                <div class="tech-list">
-                    <span class="tech-item">HTML5</span>
-                    <span class="tech-item">CSS3</span>
-                    <span class="tech-item">JavaScript</span>
-                    <span class="tech-item">TypeScript</span>
-                    <span class="tech-item">React.js</span>
-                    <span class="tech-item">Next.js</span>
-                    <span class="tech-item">Tailwind CSS</span>
-                    <span class="tech-item">Framer Motion</span>
-                </div>
-            </div>
+## 🛠️ Stack Tecnológica
 
-            <div class="tech-category">
-                <h3 class="category-title">
-                    <svg class="category-icon" viewBox="0 0 24 24" fill="#00ff88">
-                        <path d="M4 6h16v2H4zm0 5h16v2H4zm0 5h16v2H4z"/>
-                    </svg>
-                    Back-End
-                </h3>
-                <div class="tech-list">
-                    <span class="tech-item">Node.js</span>
-                    <span class="tech-item">Express.js</span>
-                    <span class="tech-item">API RESTful</span>
-                    <span class="tech-item">Webhooks</span>
-                    <span class="tech-item">OAuth2</span>
-                </div>
-            </div>
+<div align="center">
 
-            <div class="tech-category">
-                <h3 class="category-title">
-                    <svg class="category-icon" viewBox="0 0 24 24" fill="#00ff88">
-                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
-                    </svg>
-                    Database & Estado
-                </h3>
-                <div class="tech-list">
-                    <span class="tech-item">MongoDB</span>
-                    <span class="tech-item">MySQL</span>
-                    <span class="tech-item">IndexedDB</span>
-                    <span class="tech-item">React Hooks</span>
-                    <span class="tech-item">Zustand</span>
-                </div>
-            </div>
+### 🎨 Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-            <div class="tech-category">
-                <h3 class="category-title">
-                    <svg class="category-icon" viewBox="0 0 24 24" fill="#00ff88">
-                        <path d="M22.46 6c-.77.35-1.6.58-2.46.69.88-.53 1.56-1.37 1.88-2.38-.83.5-1.75.85-2.72 1.05C18.37 4.5 17.26 4 16 4c-2.35 0-4.27 1.92-4.27 4.29 0 .34.04.67.11.98C8.28 9.09 5.11 7.38 3 4.79c-.37.63-.58 1.37-.58 2.15 0 1.49.75 2.81 1.91 3.56-.71 0-1.37-.2-1.95-.5v.03c0 2.08 1.48 3.82 3.44 4.21a4.22 4.22 0 0 1-1.93.07 4.28 4.28 0 0 0 4 2.98 8.521 8.521 0 0 1-5.33 1.84c-.34 0-.68-.02-1.02-.06C3.44 20.29 5.7 21 8.12 21 16 21 20.33 14.46 20.33 8.79c0-.19 0-.37-.01-.56.84-.6 1.56-1.36 2.14-2.23z"/>
-                    </svg>
-                    Dev Tools & Cloud
-                </h3>
-                <div class="tech-list">
-                    <span class="tech-item">Git</span>
-                    <span class="tech-item">GitHub</span>
-                    <span class="tech-item">Docker</span>
-                    <span class="tech-item">Google Cloud</span>
-                    <span class="tech-item">Insomnia</span>
-                    <span class="tech-item">Swagger</span>
-                </div>
-            </div>
-        </div>
+### ⚙️ Back-End
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-        <div class="experience-section">
-            <h2 class="experience-title">Experiência Atual</h2>
-            
-            <div class="job-title">Desenvolvedor Full-Stack</div>
-            <div class="company-info">waTools • Agosto 2024 - Presente • Minas Gerais, Brasil</div>
-            
-            <ul class="achievements">
-                <li>Desenvolvimento de sistema de checkout de alta demanda acessado por milhares de usuários diariamente</li>
-                <li>Integração de webhooks com Asaas para automação de processos de cobrança</li>
-                <li>Criação de APIs REST de alta performance em Node.js/TypeScript</li>
-                <li>Desenvolvimento de interfaces responsivas com React.js, Next.js e Tailwind CSS</li>
-                <li>Otimização de performance: migração do Context API para Zustand resultou em +50% de melhoria</li>
-                <li>Arquitetura de bancos de dados escaláveis com MongoDB</li>
-                <li>Integração completa com Google Cloud Platform, OAuth2 e APIs do Google</li>
-                <li>Sistema de filtragem de webhooks e roteamento de mensagens</li>
-            </ul>
-        </div>
+### ☁️ Cloud & Tools
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-        <div class="stats">
-            <div class="stat-item">
-                <span class="stat-number">+50%</span>
-                <span class="stat-label">Melhoria Performance</span>
-            </div>
-            <div class="stat-item">
-                <span class="stat-number">1000s</span>
-                <span class="stat-label">Usuários Diários</span>
-            </div>
-            <div class="stat-item">
-                <span class="stat-number">100%</span>
-                <span class="stat-label">APIs Escaláveis</span>
-            </div>
-            <div class="stat-item">
-                <span class="stat-number">24/7</span>
-                <span class="stat-label">Sistemas Ativos</span>
-            </div>
-        </div>
-    </div>
+</div>
 
-    <script>
-        // Criar partículas flutuantes
-        function createParticles() {
-            const particleContainer = document.getElementById('particles');
-            const numParticles = 50;
+## 💼 Experiência Profissional
 
-            for (let i = 0; i < numParticles; i++) {
-                const particle = document.createElement('div');
-                particle.className = 'particle';
-                particle.style.left = Math.random() * 100 + '%';
-                particle.style.animationDelay = Math.random() * 6 + 's';
-                particle.style.animationDuration = (Math.random() * 3 + 4) + 's';
-                particleContainer.appendChild(particle);
-            }
-        }
+<details>
+<summary><b>🏢 Desenvolvedor Full-Stack na waTools (Ago 2024 - Presente)</b></summary>
 
-        // Animação de digitação para o título
-        function typeWriter(element, text, speed = 100) {
-            let i = 0;
-            element.innerHTML = '';
-            function type() {
-                if (i < text.length) {
-                    element.innerHTML += text.charAt(i);
-                    i++;
-                    setTimeout(type, speed);
-                }
-            }
-            type();
-        }
+### 🎯 Projetos Principais: Waseller & Watidy
 
-        // Inicializar animações
-        document.addEventListener('DOMContentLoaded', function() {
-            createParticles();
-            
-            // Animação de hover para tech items
-            const techItems = document.querySelectorAll('.tech-item');
-            techItems.forEach(item => {
-                item.addEventListener('mouseenter', function() {
-                    this.style.transform = 'scale(1.05) rotateZ(2deg)';
-                });
-                
-                item.addEventListener('mouseleave', function() {
-                    this.style.transform = 'scale(1) rotateZ(0deg)';
-                });
-            });
+- 🚀 **Sistema de Checkout de Alta Demanda**: Desenvolvido para o Waseller, processando milhares de transações diárias
+- 💳 **Integração Webhook Asaas**: Automatização completa dos processos de cobrança
+- 📱 **WhatsApp CRM Integration**: Soluções para uma das maiores empresas de CRM via WhatsApp do Brasil
+- ⚡ **APIs REST de Alta Performance**: Desenvolvidas em Node.js/TypeScript
+- 🎨 **Interfaces Responsivas**: React.js, Next.js e Tailwind CSS
+- 📈 **Otimização de Performance**: Migração Context API → Zustand (+50% performance)
+- 🗄️ **Arquitetura de Banco de Dados**: MongoDB escalável e confiável
 
-            // Scroll reveal para elementos
-            const observerOptions = {
-                threshold: 0.1,
-                rootMargin: '0px 0px -50px 0px'
-            };
+### 🔧 Projetos Técnicos Adicionais
+- 🌐 **Google Cloud Platform Integration**: OAuth2 + Google Drive API + Google Contacts API
+- 🔄 **Sistema de Backup Automático**: Sincronização automática de contatos
+- 🛠️ **Sistema de Webhooks**: Filtragem e roteamento inteligente de mensagens
+- 🔐 **Fluxo de Autenticação Completo**: Troca automatizada de tokens
 
-            const observer = new IntersectionObserver(function(entries) {
-                entries.forEach(entry => {
-                    if (entry.isIntersecting) {
-                        entry.target.style.opacity = '1';
-                        entry.target.style.transform = 'translateY(0)';
-                    }
-                });
-            }, observerOptions);
+</details>
 
-            // Observar elementos para animação de scroll
-            document.querySelectorAll('.tech-category, .experience-section, .stat-item').forEach(el => {
-                observer.observe(el);
-            });
-        });
+## 📊 GitHub Analytics
 
-        // Efeito paralaxe suave
-        window.addEventListener('scroll', function() {
-            const scrolled = window.pageYOffset;
-            const particles = document.querySelectorAll('.particle');
-            
-            particles.forEach((particle, index) => {
-                const speed = (index % 3 + 1) * 0.5;
-                particle.style.transform = `translateY(${scrolled * speed}px)`;
-            });
-        });
-    </script>
-</body>
-</html>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=github-dark-green&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+
+</div>
+
+## 🏆 Conquistas e Métricas
+
+<div align="center">
+
+```text
+🚀 Sistemas de Alto Tráfego     ████████████████████████████████████ 100%
+⚡ Performance Optimization    ████████████████████████████████████ 95%
+🔧 API Development             ████████████████████████████████████ 98%
+🎨 UI/UX Implementation        ███████████████████████████████████░ 92%
+☁️ Cloud Integration           ██████████████████████████████░░░░░░ 85%
+```
+
+</div>
+
+## 🎓 Formação & Certificações
+
+- 📚 **Bacharelado em Análise e Desenvolvimento de Sistemas** - FACULDADE ÚNICA (2023 - Presente)
+- 🌐 **Inglês Intermediário (B2)** - Leitura, escrita e conversação
+- 📋 **Metodologias Ágeis**: Scrum, Kanban
+
+## 🤝 Soft Skills
+
+<div align="center">
+
+`Arquitetura de Software` • `Resolução de Problemas` • `Colaboração em Equipe` • `Foco em Performance` • `Escalabilidade` • `Proatividade`
+
+</div>
+
+## 🌱 Atualmente Aprendendo
+
+```json
+{
+  "foco_atual": [
+    "Microsserviços e Arquitetura Distribuída",
+    "DevOps e CI/CD",
+    "Testes Automatizados",
+    "Machine Learning Basics"
+  ],
+  "próximos_objetivos": [
+    "AWS Certification",
+    "GraphQL Mastery",
+    "Mobile Development com React Native"
+  ]
+}
+```
+
+## 📈 Contribuições Recentes
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seuusuario&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=c9d1d9&area=true&hide_border=true)
+
+</div>
+
+## 🎯 Projetos em Destaque
+
+<div align="center">
+
+[![Waseller](https://img.shields.io/badge/🛒_Waseller-Sistema_de_Checkout-00ff41?style=for-the-badge&logo=shopping-cart&logoColor=black)](https://waseller.com.br)
+[![Watidy](https://img.shields.io/badge/💬_Watidy-WhatsApp_CRM-00ff41?style=for-the-badge&logo=whatsapp&logoColor=black)](https://watidy.com.br)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Filosofia de Desenvolvimento
+
+*"O código que escrevemos hoje é o legado que deixamos para o amanhã. Sempre priorizo clean code, performance e uma experiência de usuário excepcional."*
+
+### 📫 Vamos Conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusuario)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=seuusuario&color=00ff41&style=for-the-badge)
+
+</div>
+
+<div align="center">
+  
+![Snake animation](https://github.com/seuusuario/seuusuario/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
