@@ -3,20 +3,20 @@
 
   <h1>Wesdley Kennedy | Desenvolvedor Full Stack</h1>
 
-  <a href="https://www.linkedin.com/in/seulink">
+  <a href="https://www.linkedin.com/in/wesdley-kennedy">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:desenvolvedorwesdley@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://wa.me/seunumero">
+  <a href="https://wa.me/5531935001771">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://github.com/Wesdley-Kennedy">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <br/><br/>
-  <a href="https://seudominio.com/curriculo.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1kyz3F9V7a57NzaoPLyh6c76085dOhGUT/view" target="_blank">
     📄 Baixar Currículo
   </a>
 </div>
