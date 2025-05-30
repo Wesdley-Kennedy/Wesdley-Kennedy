@@ -21,12 +21,12 @@
   </a>
 </div>
 
-## 💫 Sobre Mim
+## Sobre Mim
 Desenvolvedor Full Stack apaixonado por tecnologia e inovação, focado em criar soluções robustas, escaláveis e performáticas. Atualmente trabalho com automação e desenvolvimento web, e estou sempre buscando aprimorar minhas habilidades.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 **Frontend:** React | Next.js | TypeScript | JavaScript | Tailwind CSS | HTML | CSS | Sass  
 **Backend:** Node.js | Express  
@@ -38,8 +38,10 @@ Desenvolvedor Full Stack apaixonado por tecnologia e inovação, focado em criar
 
 ---
 
+
+
 ## 🏆 Experiência Profissional
-(Currículo esta mais completo) 
+(Confira o currículo para mais detalhes das minhas experiências😉) 
 
 **Desenvolvedor Full Stack – waTools**  
 *(Ago 2024 – Atual)*  
