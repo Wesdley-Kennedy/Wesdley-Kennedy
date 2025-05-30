@@ -39,6 +39,7 @@ Desenvolvedor Full Stack apaixonado por tecnologia e inovação, focado em criar
 ---
 
 ## 🏆 Experiência Profissional
+(Currículo esta mais completo) 
 
 **Desenvolvedor Full Stack – waTools**  
 *(Ago 2024 – Atual)*  
@@ -56,7 +57,7 @@ Desenvolvedor Full Stack apaixonado por tecnologia e inovação, focado em criar
 ## 🎓 Educação & Certificações
 
 - Análise e Desenvolvimento de Sistemas – Faculdade Única (Cursando)
-- Satander Back-End Developer - (Cursando)
+- Santander Back-End Developer - (Cursando)
 
 
 ---
