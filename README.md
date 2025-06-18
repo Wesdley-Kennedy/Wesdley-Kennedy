@@ -23,12 +23,13 @@
 
 ## Sobre Mim
 Desenvolvedor Full Stack apaixonado por tecnologia e inovação, focado em criar soluções robustas, escaláveis e performáticas. Atualmente trabalho com automação e desenvolvimento web, e estou sempre buscando aprimorar minhas habilidades.
+Atualmente em um projeto pessoal com React Native
 
 ---
 
 ## Tech Stack
 
-**Frontend:** React | Next.js | TypeScript | JavaScript | Tailwind CSS | HTML | CSS | Sass  
+**Frontend:** React Native | React | Next.js | TypeScript | JavaScript | Tailwind CSS | HTML | CSS | Sass  
 **Backend:** Node.js | Express  
 **Banco de Dados:** MongoDB | MySQL | IndexedDB  
 **Dev Tools:** Git | GitHub | VSCode | Insomnia | Swagger  
@@ -40,8 +41,8 @@ Desenvolvedor Full Stack apaixonado por tecnologia e inovação, focado em criar
 
 
 
-## 🏆 Experiência Profissional
-(Confira o currículo para mais detalhes das minhas experiências😉) 
+##  Experiência Profissional
+(Confira o currículo para mais detalhes das minhas experiências) 
 
 **Desenvolvedor Full Stack – waTools**  
 *(Ago 2024 – Atual)*  
@@ -56,7 +57,7 @@ Desenvolvedor Full Stack apaixonado por tecnologia e inovação, focado em criar
 
 ---
 
-## 🎓 Educação & Certificações
+## Educação & Certificações
 
 - Análise e Desenvolvimento de Sistemas – Faculdade Única (Cursando)
 - Santander Back-End Developer - (Cursando)
