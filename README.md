@@ -44,16 +44,38 @@ Atualmente em um projeto pessoal com React Native
 ##  Experiência Profissional
 (Confira o currículo para mais detalhes das minhas experiências) 
 
-**Desenvolvedor Full Stack – waTools**  
-*(Ago 2024 – Atual)*  
-- Desenvolvimento de sistemas de alta demanda para Waseller e Watidy.  
-- Criação de APIs RESTful e sistemas de pagamentos robustos.  
-- Integração de webhooks com Asaas e Google APIs.  
-- Otimização de aplicações web utilizando Zustand, React e Next.js.
+**Desenvolvedor Full Stack – waTools** 
+(Ago 2024 – Atual)
+
+Desenvolvimento de sistemas de alta demanda para Waseller e Watidy.
+Criação de APIs RESTful e sistemas de pagamentos robustos com integração ao Asaas.
+Integração com Google APIs e webhooks automatizados.
+Otimização de aplicações web com Zustand, React, Next.js e Tailwind CSS.
+Participação na arquitetura de soluções escaláveis com foco em performance e experiência do usuário.
+
+**Desenvolvedor Back-End – Projeto Voluntário (SouJunior)** 
+(Mai 2025 – Atual)
+
+Criação de rotas e banco de dados para cadastro e consulta de médicos.
+Desenvolvimento de APIs utilizando Node.js, TypeScript e PostgreSQL.
+Estruturação inicial da base de dados e endpoints com foco em organização e integridade.
+Colaboração desde o início do projeto, contribuindo ativamente com decisões técnicas.
+
+
 
 **Recepcionista de Hotel – Hotel San Diego Ipatinga**  
 *(2018 – 2022)*  
-- Atendimento ao cliente, resolução de problemas e auditorias internas.
+Desenvolvimento da comunicação em inglês, atendendo diariamente hóspedes estrangeiros.
+
+Atendimento ao público nacional e internacional, oferecendo um serviço cordial e eficiente.
+
+Realização de check-ins e check-outs, com foco na experiência do hóspede.
+
+Condução de auditorias diárias e conferência de relatórios administrativos.
+
+Treinamento e liderança de novos recepcionistas, assegurando o padrão de qualidade no atendimento.
+
+Suporte à gerência nas rotinas administrativas e na resolução de situações operacionais.
 
 ---
 
