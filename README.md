@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <br/><br/>
-  <a href="https://drive.google.com/file/d/1aDPpSKfrAhzR87UwT29lSci3yE3L03_C/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1BgPgBu5TfMEke6Kc9aCP6BNFeQ_ylT4a/view?usp=sharing" target="_blank">
     📄 Baixar Currículo
   </a>
 </div>
