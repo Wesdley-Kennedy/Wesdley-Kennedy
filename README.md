@@ -66,15 +66,10 @@ Colaboração desde o início do projeto, contribuindo ativamente com decisões 
 **Recepcionista de Hotel – Hotel San Diego Ipatinga**  
 *(2018 – 2022)*  
 Desenvolvimento da comunicação em inglês, atendendo diariamente hóspedes estrangeiros.
-
 Atendimento ao público nacional e internacional, oferecendo um serviço cordial e eficiente.
-
 Realização de check-ins e check-outs, com foco na experiência do hóspede.
-
 Condução de auditorias diárias e conferência de relatórios administrativos.
-
 Treinamento e liderança de novos recepcionistas, assegurando o padrão de qualidade no atendimento.
-
 Suporte à gerência nas rotinas administrativas e na resolução de situações operacionais.
 
 ---
