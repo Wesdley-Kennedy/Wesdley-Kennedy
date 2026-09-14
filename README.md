@@ -4,93 +4,7 @@
 
 ### Full Stack Developer
 
-Construindo software para operação real.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-wesdley.com-0F172A?style=flat-square&logo=googlechrome&logoColor=white)](https://wesdley.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wesdley%20Kennedy-0F172A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesdley-kennedy)
-[![Email](https://img.shields.io/badge/Email-desenvolvedor%40wesdley.com-0F172A?style=flat-square&logo=gmail&logoColor=white)](mailto:desenvolvedor@wesdley.com)
-
 </div>
-
----
-
-## 👨‍💻 About Me
-
-Sou **Full Stack Developer**, com experiência no desenvolvimento de aplicações web, APIs, integrações e automações.
-
-Trabalho principalmente com **TypeScript, React, Next.js, Node.js e NestJS**, buscando construir soluções organizadas, escaláveis e conectadas às necessidades reais do negócio.
-
-Atualmente estou direcionando meus estudos para **Java, Spring Boot e AWS**, fortalecendo minha base de backend, arquitetura de software, APIs e infraestrutura em nuvem.
-
-Também estou explorando desenvolvimento mobile com **React Native**.
-
----
-
-## 🚀 Selected Work
-
-### waTools
-
-Plataforma SaaS B2B para gerenciamento e operação de integrações com a API oficial do WhatsApp.
-
-**Tecnologias:** React, TypeScript, Node.js, NestJS, MongoDB e Redis.
-
-**Principais frentes:**
-
-- Integrações com a API oficial do WhatsApp;
-- Funcionalidades SaaS;
-- Autenticação e autorização;
-- APIs e automações;
-- Interfaces administrativas;
-- Fluxos de operação e gerenciamento.
-
----
-
-### Marques Payments API
-
-API de pagamentos desenvolvida para praticar arquitetura backend, autenticação, persistência e organização de serviços.
-
-**Tecnologias:** Node.js, TypeScript, Express, PostgreSQL, Prisma e Docker.
-
-**Principais frentes:**
-
-- REST API;
-- Fluxos de pagamentos;
-- Persistência relacional;
-- Autenticação;
-- Organização de domínio;
-- Ambiente containerizado.
-
----
-
-### Personal Portfolio
-
-Meu portfólio profissional para apresentar projetos, experiências e tecnologias.
-
-**Tecnologias:** React, Next.js e TypeScript.
-
-**Principais frentes:**
-
-- Design responsivo;
-- Performance;
-- SEO;
-- Apresentação de projetos;
-- Experiência de navegação.
-
----
-
-### Labs & Studies
-
-Projetos experimentais e exercícios para fortalecer fundamentos de programação, backend e desenvolvimento mobile.
-
-**Tecnologias:** Java, Spring Boot, React Native e TypeScript.
-
-**Foco atual:**
-
-- Orientação a objetos;
-- APIs backend;
-- Estrutura de dados;
-- Arquitetura de software;
-- Desenvolvimento mobile.
 
 ---
 
@@ -110,49 +24,56 @@ Projetos experimentais e exercícios para fortalecer fundamentos de programaçã
 
 ---
 
-## 🖥️ Developer Profile
+## Developer Profile
 
 ```text
 wesdley@fullstack ─────────────────────────────────────────────
 
-  Identity:
-    Name .............. Wesdley Marques
-    Role .............. Full Stack Developer
-    Location .......... Brazil
-    Birthday .......... 09 December 2001
+  OS:                 Ubuntu Linux, Windows, Android
+  Uptime:             24 years, 9 months
+  Host:               Wesdley Marques
+  Kernel:             Full Stack Developer
+  IDE:                WebStorm, IntelliJ IDEA, VS Code
 
-  Operating Systems:
-    Ubuntu Linux · Windows · Android
+  Languages.Programming: TypeScript, JavaScript, Java, Python
+  Languages.Framework:   React, Next.js, Node.js, NestJS
+  Languages.Real:        Portuguese, English
 
-  Development Environment:
-    WebStorm · IntelliJ IDEA · VS Code
+  Stack.Frontend:      React, Next.js, TypeScript
+  Stack.Backend:       Node.js, NestJS, Spring Boot
+  Stack.Database:      PostgreSQL, MongoDB, Redis
 
-  Languages:
-    TypeScript · JavaScript · Java · Python
+  Currently.Learning:  Java, Spring Boot, AWS, React Native
 
-  Frontend:
-    React · Next.js · TypeScript
+  - Contact ───────────────────────────────────────────────────
+  Email.Personal:      desenvolvedor@wesdley.com
+  LinkedIn:            linkedin.com/in/wesdley-kennedy
+  GitHub:              github.com/Wesdley-Kennedy
+  Portfolio:           wesdley.com
 
-  Backend:
-    Node.js · NestJS · Spring Boot
-
-  Databases:
-    PostgreSQL · MongoDB · Redis
-
-  Engineering Interests:
-    Backend Engineering
-    Cloud Infrastructure
-    APIs & Integrations
-    Software Architecture
-    Automation
-
-  Currently Learning:
-    Java · Spring Boot · AWS · React Native
-
-  Main Project:
-    waTools — B2B WhatsApp API SaaS
-
-  Education:
-    Software Engineering
+  - GitHub Stats ──────────────────────────────────────────────
+  Repositories:        <!-- atualize manualmente se quiser -->
+  Stars:               <!-- atualize manualmente se quiser -->
+  Commits:             <!-- atualize manualmente se quiser -->
+  Followers:           <!-- atualize manualmente se quiser -->
 
 ──────────────────────────────────────────────────────────────
+```
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Wesdley-Kennedy&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&include_all_commits=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesdley-Kennedy&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Wesdley-Kennedy&hide_border=true&background=0F172A&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+</div>
