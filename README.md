@@ -1,64 +1,83 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=150&section=header&text=Wesdley%20Marques&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0F172A,100:0EA5E9&height=180&section=header&text=WESDLEY%20MARQUES&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%2F%2F%20BUILDING%20SOFTWARE%20FOR%20REAL-WORLD%20OPERATIONS&descAlignY=58&descSize=13&animation=fadeIn"/>
 
-### Construindo software para operação real.
+<br/>
+
+# Building software for real-world operations.
 
 Desenvolvimento web, APIs, integrações e automações com foco em produtos que realmente chegam aos usuários.
 
 <br/>
 
 <a href="https://wesdley.com">
-  <img src="https://img.shields.io/badge/Portfólio-wesdley.com-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/wesdley-kennedy">
-  <img src="https://img.shields.io/badge/LinkedIn-Wesdley_Marques-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:desenvolvedor@wesdley.com">
-  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Wesdley-Kennedy&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👋 Sobre mim
+## `01` — About
 
 Sou **Desenvolvedor Full Stack**, atuando principalmente com **React, Next.js, TypeScript e Node.js**.
 
-No dia a dia trabalho na construção e evolução de aplicações web, APIs, integrações e automações. Gosto especialmente de transformar regras de negócio e processos manuais em software simples de usar e manter.
+No dia a dia, trabalho na construção e evolução de aplicações web, APIs, integrações e automações. Gosto especialmente de transformar regras de negócio e processos manuais em software simples de usar e manter.
 
-Atualmente também estou aprofundando meus estudos em **Java + Spring Boot** e **React Native**.
+Atualmente, também estou aprofundando meus estudos em **Java + Spring Boot**, **AWS** e **React Native**, buscando evoluir cada vez mais minha base de backend e minha capacidade de construir sistemas completos.
+
+> **Build. Learn. Improve. Repeat.**
 
 ---
 
-## 🚀 Projetos em destaque
+## `02` — Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💬 waTools
+### `waTools`
 
-SaaS voltado para operações utilizando a API oficial do WhatsApp, com recursos de atendimento, campanhas, automações e integrações.
+**SaaS · WhatsApp API · Automation**
 
-**Stack:**
+Plataforma voltada para operações utilizando a API oficial do WhatsApp, com recursos de atendimento, campanhas, automações e integrações.
+
+Construído para transformar processos de comunicação em operações mais organizadas e eficientes.
+
+<br/>
+
 `React` `TypeScript` `Node.js` `MongoDB` `Redis`
 
-🔗 **[Conhecer o produto](https://lp.watools.com.br/)**
+<br/>
+
+<a href="https://lp.watools.com.br/">↗ Explore the product</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💳 Marques Payments API
+### `Marques Payments API`
+
+**Backend · REST API · Payments**
 
 API REST desenvolvida com fluxo completo de produtos, pedidos, transações, gateway de pagamento simulado e webhooks.
 
-**Stack:**
+Projeto focado em organização de backend, regras de negócio e integração entre serviços.
+
+<br/>
+
 `Node.js` `TypeScript` `Express` `PostgreSQL` `Prisma` `Docker`
 
-🔗 **[Ver repositório](https://github.com/Wesdley-Kennedy/marques-payments-api)**
+<br/>
+
+<a href="https://github.com/Wesdley-Kennedy/marques-payments-api">↗ View repository</a>
 
 </td>
 </tr>
@@ -66,28 +85,37 @@ API REST desenvolvida com fluxo completo de produtos, pedidos, transações, gat
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Portfólio
+### `Portfolio`
 
-Meu portfólio reúne projetos, experiências e trabalhos que já desenvolvi em aplicações web, integrações e sistemas internos.
+**Personal · Web · Showcase**
 
-**Stack:**
+Meu espaço para reunir projetos, experiências e trabalhos desenvolvidos em aplicações web, integrações e sistemas internos.
+
+<br/>
+
 `React` `Next.js` `TypeScript`
 
-🔗 **[wesdley.com](https://wesdley.com)**
+<br/>
+
+<a href="https://wesdley.com">↗ wesdley.com</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧪 Labs & Estudos
+### `Labs & Experiments`
 
-Projetos menores onde estudo novas tecnologias, arquitetura, backend e desenvolvimento mobile.
+**Learning · Architecture · Backend**
+
+Projetos menores para explorar novas tecnologias, arquitetura, backend e desenvolvimento mobile.
 
 Atualmente explorando:
 
-`Java` `Spring Boot` `React Native`
+`Java` `Spring Boot` `React Native` `AWS`
 
-🔗 **[Ver repositórios](https://github.com/Wesdley-Kennedy?tab=repositories)**
+<br/>
+
+<a href="https://github.com/Wesdley-Kennedy?tab=repositories">↗ Browse repositories</a>
 
 </td>
 </tr>
@@ -95,80 +123,87 @@ Atualmente explorando:
 
 ---
 
-## 🧰 Stack
+## `03` — Technology stack
 
 ### Frontend
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/Zustand-0F172A?style=for-the-badge"/>
 </p>
 
-### Backend & Dados
+### Backend & Data
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express-0F172A?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/Redis-0F172A?style=for-the-badge&logo=redis&logoColor=DC382D"/>
+<img src="https://img.shields.io/badge/Prisma-0F172A?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
 
-### Ferramentas
+### Tools & Workflow
 
 <p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=000"/>
-<img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Swagger-0F172A?style=for-the-badge&logo=swagger&logoColor=85EA2D"/>
+<img src="https://img.shields.io/badge/Insomnia-0F172A?style=for-the-badge&logo=insomnia&logoColor=4000BF"/>
 </p>
 
-### Atualmente estudando
+### Currently learning
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/Spring_Boot-0F172A?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/React_Native-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 ---
 
-## 💼 Experiência atual
+## `04` — Experience
 
-### Desenvolvedor Full Stack · waTools
+### Full Stack Developer · waTools
 
 Atuação no desenvolvimento e evolução de produtos SaaS, trabalhando com:
 
-* interfaces e fluxos utilizando React, Next.js e TypeScript;
-* APIs e integrações utilizando Node.js;
-* automações e webhooks;
-* integrações com APIs externas;
-* bancos de dados e cache;
-* manutenção e evolução de sistemas utilizados em produção.
+- Interfaces e fluxos utilizando React, Next.js e TypeScript.
+- APIs e integrações utilizando Node.js.
+- Automações e webhooks.
+- Integrações com APIs externas.
+- Bancos de dados e cache.
+- Manutenção e evolução de sistemas utilizados em produção.
 
-> Para histórico profissional completo, experiências anteriores e formação, acesse meu **[LinkedIn](https://www.linkedin.com/in/wesdley-kennedy)** ou **[portfólio](https://wesdley.com)**.
+<br/>
 
 ---
 
+## `05` — GitHub activity
+
 <div align="center">
 
-### Vamos conversar?
+<img src="https://github-readme-stats.vercel.app/api?username=Wesdley-Kennedy&show_icons=true&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&include_all_commits=true&count_private=true"/>
 
-<a href="mailto:desenvolvedor@wesdley.com">
-  <img src="https://img.shields.io/badge/Email-desenvolvedor%40wesdley.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesdley-Kennedy&layout=compact&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=CBD5E1"/>
 
-<a href="https://www.linkedin.com/in/wesdley-kennedy">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/>
 
-<br/><br/>
-
-<sub>React • TypeScript • Node.js • construindo e aprendendo continuamente.</sub>
+<img src="https://streak-stats.demolab.com?user=Wesdley-Kennedy&theme=transparent&hide_border=true&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B"/>
 
 </div>
+
+---
+
+## `06` — Environment
+
+```text
+OS          Ubuntu Linux · Windows · Android
+IDE         WebStorm · IntelliJ IDEA · VS Code
+Focus       Full Stack Development
+Learning    Java · Spring Boot · AWS · React Native
