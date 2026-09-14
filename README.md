@@ -1,13 +1,5 @@
-<div align="center">
-
-# Wesdley Marques
-
-### Full Stack Developer
-
-</div>
 
 ---
-
 ## Technology
 
 #### _Cloud Infrastructure · DevOps · Databases_
@@ -51,29 +43,5 @@ wesdley@fullstack ────────────────────�
   GitHub:              github.com/Wesdley-Kennedy
   Portfolio:           wesdley.com
 
-  - GitHub Stats ──────────────────────────────────────────────
-  Repositories:        <!-- atualize manualmente se quiser -->
-  Stars:               <!-- atualize manualmente se quiser -->
-  Commits:             <!-- atualize manualmente se quiser -->
-  Followers:           <!-- atualize manualmente se quiser -->
-
 ──────────────────────────────────────────────────────────────
 ```
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Wesdley-Kennedy&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&include_all_commits=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesdley-Kennedy&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Wesdley-Kennedy&hide_border=true&background=0F172A&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
