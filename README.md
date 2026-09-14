@@ -18,30 +18,30 @@
 
 ## Developer Profile
 
-```text
-wesdley@fullstack ─────────────────────────────────────────────
+<pre>
+<span style="color:#38BDF8">wesdley@fullstack</span> <span style="color:#64748B">─────────────────────────────────────────────</span>
 
-  OS:                 Ubuntu Linux, Windows, Android
-  Uptime:             24 years, 9 months
-  Host:               Wesdley Marques
-  Kernel:             Full Stack Developer
-  IDE:                WebStorm, IntelliJ IDEA, VS Code
+  <span style="color:#F59E0B">OS:</span>                    <span style="color:#38BDF8">Ubuntu Linux, Windows, Android</span>
+  <span style="color:#F59E0B">Uptime:</span>                <span style="color:#38BDF8">24 years, 9 months</span>
+  <span style="color:#F59E0B">Host:</span>                  <span style="color:#38BDF8">Wesdley Marques</span>
+  <span style="color:#F59E0B">Kernel:</span>                <span style="color:#38BDF8">Full Stack Developer</span>
+  <span style="color:#F59E0B">IDE:</span>                   <span style="color:#38BDF8">WebStorm, IntelliJ IDEA, VS Code</span>
 
-  Languages.Programming: TypeScript, JavaScript, Java, Python
-  Languages.Framework:   React, Next.js, Node.js, NestJS
-  Languages.Real:        Portuguese, English
+  <span style="color:#F59E0B">Languages.Programming:</span> <span style="color:#38BDF8">TypeScript, JavaScript, Java, Python</span>
+  <span style="color:#F59E0B">Languages.Framework:</span>   <span style="color:#38BDF8">React, Next.js, Node.js, NestJS</span>
+  <span style="color:#F59E0B">Languages.Real:</span>        <span style="color:#38BDF8">Portuguese, English</span>
 
-  Stack.Frontend:      React, Next.js, TypeScript
-  Stack.Backend:       Node.js, NestJS, Spring Boot
-  Stack.Database:      PostgreSQL, MongoDB, Redis
+  <span style="color:#F59E0B">Stack.Frontend:</span>       <span style="color:#38BDF8">React, Next.js, TypeScript</span>
+  <span style="color:#F59E0B">Stack.Backend:</span>        <span style="color:#38BDF8">Node.js, NestJS, Spring Boot</span>
+  <span style="color:#F59E0B">Stack.Database:</span>       <span style="color:#38BDF8">PostgreSQL, MongoDB, Redis</span>
 
-  Currently.Learning:  Java, Spring Boot, AWS, React Native
+  <span style="color:#F59E0B">Currently.Learning:</span>   <span style="color:#38BDF8">Java, Spring Boot, AWS, React Native</span>
 
-  - Contact ───────────────────────────────────────────────────
-  Email.Personal:      desenvolvedor@wesdley.com
-  LinkedIn:            linkedin.com/in/wesdley-kennedy
-  GitHub:              github.com/Wesdley-Kennedy
-  Portfolio:           wesdley.com
+  <span style="color:#64748B">- Contact ───────────────────────────────────────────────────</span>
+  <span style="color:#F59E0B">Email.Personal:</span>       <span style="color:#38BDF8">desenvolvedor@wesdley.com</span>
+  <span style="color:#F59E0B">LinkedIn:</span>              <span style="color:#38BDF8">linkedin.com/in/wesdley-kennedy</span>
+  <span style="color:#F59E0B">GitHub:</span>                <span style="color:#38BDF8">github.com/Wesdley-Kennedy</span>
+  <span style="color:#F59E0B">Portfolio:</span>             <span style="color:#38BDF8">wesdley.com</span>
 
-──────────────────────────────────────────────────────────────
-```
+<span style="color:#64748B">──────────────────────────────────────────────────────────────</span>
+</pre>
